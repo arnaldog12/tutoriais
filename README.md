@@ -20,7 +20,7 @@ As principais utilidades do repositório é:
    - Curso (Ex: Udacity, Coursera, MIT, Stanford)
    - Projeto (Ex: GitHub, GitLab)
 
-Para inserir o seu material (post, curso, projeto) no repositório basta criar [uma __#Issues__](https://github.com/tensorflow-brasil/tutoriais/issues/new). Lá vai ter um template bastante simples explicando como preencher os dados.
+Para inserir o seu material (post, curso, projeto) no repositório basta criar [uma __#Issue__](https://github.com/tensorflow-brasil/tutoriais/issues/new). Lá vai ter um template bastante simples explicando como preencher os dados.
 
 ## Blogposts
 
